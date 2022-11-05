@@ -1,1 +1,6 @@
 1	Star Wars: Episodio I - La amenaza fantasma
+Star Wars: Episodio II
+Star Wars: Episodio III
+Star Wars: Episodio IV
+Star Wars: Episodio V
+Star Wars: Episodio VI
